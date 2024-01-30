@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+
 # 💫 About Me:
-A passionate frontend developer from India.
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning ReactJS
 
 
 ## 🌐 Socials:
@@ -12,6 +13,8 @@ A passionate frontend developer from India.
 ![](https://github-readme-stats.vercel.app/api?username=AmanTheExecutable&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanTheExecutable&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTheExecutable&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://leetcard.jacoblin.cool/Amandotexe?total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count,border=0)<br/>
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
