@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Applications<br>🌱 I’m currently learning ReactJS
+🌱 I'm currently working as a SDE Intern UI @MoveInSync
 
 
 ## 🌐 Socials:
